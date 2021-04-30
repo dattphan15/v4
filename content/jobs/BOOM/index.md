@@ -1,7 +1,7 @@
 ---
 date: '2014-04-01'
 title: 'Brand Ambassador'
-company: 'BOOM! Marketing'
+company: 'BOOM!'
 location: 'Victoria, BC'
 range: 'April 2014 - January 2017'
 url: ''

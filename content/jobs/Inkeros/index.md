@@ -1,7 +1,7 @@
 ---
 date: '2013-09-01'
 title: 'Sales Consultant'
-company: 'Inkeros & Paytek Solutions'
+company: 'Paytek Solutions'
 location: 'Vancouver, BC'
 range: 'September 2013 - April 2014'
 url: 'https://www.linkedin.com/company/paytek/'
