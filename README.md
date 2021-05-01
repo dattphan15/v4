@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/dattphan15/v4/ad409117ea23487668110bb2f69b0ccb593b3573/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   brittanychiang.com - v4
