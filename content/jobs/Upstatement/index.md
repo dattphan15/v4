@@ -3,7 +3,7 @@ date: '2019-09-10'
 title: 'Marketing Coordinator'
 company: 'Jim Pattison'
 location: 'Burnaby, BC'
-range: 'Sep 2019 - Mar 2020'
+range: 'SEP 2019 - MAR 2020'
 url: 'https://www.jimpattisonlease.com/'
 ---
 

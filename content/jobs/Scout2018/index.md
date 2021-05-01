@@ -3,7 +3,7 @@ date: '2017-11-01'
 title: 'Marketing Coordinator / Project Manager'
 company: 'BRED.'
 location: 'Burnaby, BC'
-range: 'November 2017 - September 2019'
+range: 'NOV 2017 - SEP 2019'
 url: 'https://www.bredofficial.ca/'
 ---
 

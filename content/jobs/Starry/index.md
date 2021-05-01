@@ -3,7 +3,7 @@ date: '2017-03-15'
 title: 'SEO/Marketing Strategist (Internship)'
 company: 'Geeky'
 location: 'Vancouver, BC'
-range: 'March 2017 - May 2017'
+range: 'MAR 2017 - MAY 2017'
 url: 'https://geekymarketing.com/'
 ---
 

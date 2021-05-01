@@ -3,7 +3,7 @@ date: '2013-04-01'
 title: 'Sales Representative'
 company: 'Vivint'
 location: 'Calgary, AB'
-range: 'April 2013 - August 2013'
+range: 'APR 2013 - AUG 2013'
 url: 'https://www.vivint.com/'
 ---
 
