@@ -65,8 +65,8 @@ const Hero = () => {
     <p>
       A Vancouver-based Full Stack Developer with a background in Sales, Digital Marketing, and
       UI/UX Design. My passion in web technologies and scalable, innovative applications has led me
-      to purusue a career in Software Development. Currently, I am seeking an entry-level position
-      to put my creativity towards client projects.
+      to pursue a career in Software Development. Currently, I am seeking an entry-level position to
+      put my creativity towards client projects.
     </p>
   );
   const five = (
