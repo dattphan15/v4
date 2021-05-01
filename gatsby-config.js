@@ -5,7 +5,7 @@ module.exports = {
     title: 'Kevin Phan',
     description:
       'Kevin Phan is a Full Stack Developer who specializes in building and designing exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://www.kevinphan.ca', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@kenPHAN',
   },
@@ -19,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'KevinPhan',
+        short_name: 'KevinPhan',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
