@@ -9,3 +9,4 @@ url: 'https://www.jimpattisonlease.com/'
 
 - Managed collateral projects as defined by the Sales Departments: content collection, production and printing/distribution.
 - Graphic designing for ad placement, website, and sales materials.
+- Preparing marketing reports by collecting, analyzing, and summarizing sales data.
