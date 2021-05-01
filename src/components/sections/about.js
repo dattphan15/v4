@@ -1,6 +1,4 @@
 import React, { useEffect, useRef } from 'react';
-import { useStaticQuery, graphql } from 'gatsby';
-import Img from 'gatsby-image';
 import styled from 'styled-components';
 import { srConfig } from '@config';
 import sr from '@utils/sr';
@@ -115,18 +113,6 @@ const StyledPic = styled.div`
 `;
 
 const About = () => {
-  const data = useStaticQuery(graphql`
-    query {
-      avatar: file(sourceInstanceName: { eq: "images" }, relativePath: { eq: "" }) {
-        childImageSharp {
-          fluid(maxWidth: 500, traceSVG: { color: "#64ffda" }) {
-            ...GatsbyImageSharpFluid_withWebp_tracedSVG
-          }
-        }
-      }
-    }
-  `);
-
   const revealContainer = useRef(null);
   const prefersReducedMotion = usePrefersReducedMotion();
 
@@ -171,9 +157,7 @@ const About = () => {
         </StyledText>
 
         <StyledPic>
-          <div className="wrapper">
-            <Img fluid={data.avatar.childImageSharp.fluid} alt="Avatar" className="img" />
-          </div>
+          <div className="wrapper"></div>
         </StyledPic>
       </div>
     </StyledAboutSection>
