@@ -2,7 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Kevin Phan',
+    title: 'Kevin Phan - JavaScript Developer',
     description:
       'Kevin Phan is a Full Stack Developer who specializes in building and designing exceptional digital experiences.',
     siteUrl: 'https://www.kevinphan.ca', // No trailing slash allowed!
