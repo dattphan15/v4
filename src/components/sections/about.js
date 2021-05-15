@@ -134,12 +134,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Kevin and I enjoy creating applications that provide simple
-              solutions for real-world problems. My interest in web development started back in 2015
-              when I picked up a new hobby of collecting sneakers and discovered bots and custom
-              scripts along the way. Inspired by the young developers that created an
-              industry-leading piece of software, I was motivated to pursue a career in software
-              development and embark on a new journey.
+              My interest in web development started back in 2015 when I picked up a new hobby of
+              collecting sneakers and discovered bots and custom scripts along the way. Inspired by
+              the young developers that created an industry-leading piece of software, I was
+              motivated to pursue a career in software development and embark on a new journey.
             </p>
 
             <p>
@@ -147,7 +145,7 @@ const About = () => {
               <a href="https://geekymarketing.com/">a digital marketing agency</a>,{' '}
               <a href="https://www.bredofficial.ca/"> a start-up company</a>, and a
               <a href="https://www.jimpattisonlease.com/"> corporate leader in fleet solutions</a>.
-              While my past experience focused on UI/UX, lately I have been working with:
+              While my past experience focused on UI/UX designs, lately I have been working with:
             </p>
           </div>
 
